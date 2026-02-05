@@ -1,0 +1,36 @@
+{
+  "name": "memoryai",
+  "version": "1.0.0",
+  "description": "Never lose a conversation with Claude Code again. Automatic session capture + AI-powered cleanup.",
+  "type": "module",
+  "main": "empusa.js",
+  "bin": {
+    "memoryai": "./empusa.js"
+  },
+  "scripts": {
+    "cleanup": "node cleanup-session.js"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "anthropic",
+    "ai",
+    "memory",
+    "session-capture",
+    "conversation-logger",
+    "deepseek",
+    "replicate"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justin55afdfdsf5ds45f4ds5f45ds4/MemoryAI.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "node-pty": "^1.1.0"
+  }
+}

@@ -1,0 +1,7 @@
+node_modules/
+.env
+.empusa-debug.log
+.empusa-session.log
+MEMORY.md
+*.log
+.DS_Store
