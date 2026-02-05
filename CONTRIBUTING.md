@@ -5,7 +5,7 @@ Thanks for your interest in making MemoryAI better!
 ## Quick Start
 
 1. Fork the repo
-2. Clone your fork: `git clone https://github.com/YOUR_USERNAME/MemoryAI.git`
+2. Clone your fork: `git clone https://github.com/justin55afdfdsf5ds45f4ds5f45ds4/MemoryAI.git`
 3. Create a branch: `git checkout -b feature/your-feature-name`
 4. Make your changes
 5. Test locally: `npm link` then `memoryai`
